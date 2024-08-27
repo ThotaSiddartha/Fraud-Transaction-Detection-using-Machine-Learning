@@ -20,3 +20,5 @@
 
 <h2>Project Outcomes:</h2>
 <p>The implementation of these models and techniques resulted in a system capable of identifying fraudulent transactions with high accuracy. The combination of ensemble methods and base estimators contributed to minimizing false positives and false negatives, leading to a reliable fraud detection system.</p>
+
+<h3>For More Details Refer Project Report</h3>
